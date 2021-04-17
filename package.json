@@ -89,7 +89,7 @@
     "esm": "^3.2.25",
     "gulp-format-md": "^0.1.10",
     "highlight.js": "^9.7.0",
-    "marked": "0.3.2",
+    "marked": "1.0.0",
     "mocha": "^6.1.4",
     "nyc": "^14.1.1",
     "rollup": "^1.16.7",
